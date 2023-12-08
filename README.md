@@ -1,23 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajesh
+Hi there I' Rajesh ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Data analyst
+Data analyst (The best storyteller 😉),
 ------------
 
 A studious Data Science enthusiast with a passion for leveraging data-driven insights to solve complex problems. With a solid foundation in mathematics, statistics, and programming, she is dedicated to continuous learning and staying abreast of the latest advancements in the field.
 
-* 🌍  I'm based in Chennai,Tamil Nadu, India
+* 🌍  I'm based in Chennai, Tamil Nadu, India
 * ✉️  You can contact me at [rajeshalagupandiyan@gmail.com](mailto:rajeshalagupandiyan@gmail.com)
-* 🧠  I'm learning Foundation of Data analyst
-* 🤝  I'm open to collaborating on Data science Projects.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🔭 I’m currently working as a Prepinsta Data Analyst Intern
+* 🌱 I’m currently learning Foundation of Data analyst
+* 🤝  I'm open to collaborating on Data Science Projects
+* 💬 Ask me about the World of Data Science
+* 📫 How to reach me: 👇
 
 ### Skills
 
