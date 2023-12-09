@@ -1,7 +1,7 @@
 Hi There I'm Rajesh![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Data analyst (The Best Storyteller 😉)
+Data analyst (The Best Storyteller😉),
 ------------
 
 A studious Data Science enthusiast with a passion for leveraging data-driven insights to solve complex problems. With a solid foundation in mathematics, statistics, and programming, she is dedicated to continuous learning and staying abreast of the latest advancements in the field.
