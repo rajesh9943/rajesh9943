@@ -4,7 +4,7 @@ Hi there I' Rajesh ![](https://user-images.githubusercontent.com/18350557/176309
 Data analyst (The best storyteller 😉),
 ------------
 
-A studious Data Science enthusiast with a passion for leveraging data-driven insights to solve complex problems. With a solid foundation in mathematics, statistics, and programming, she is dedicated to continuous learning and staying abreast of the latest advancements in the field.
+A studious Data Science enthusiast with a passion for leveraging data-driven insights to solve complex problems. With a solid foundation in mathematics, statistics, and programming, I dedicated to continuous learning and staying abreast of the latest advancements in the field.
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India
 * ✉️  You can contact me at [rajeshalagupandiyan@gmail.com](mailto:rajeshalagupandiyan@gmail.com)
