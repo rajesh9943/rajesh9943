@@ -40,6 +40,6 @@ A studious Data Science enthusiast with a passion for leveraging data-driven ins
 
 <div width="100%" align="center"><a href="https://github.com/rajesh9943/Simple-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajesh9943&repo=Simple-Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rajesh9943/JARVIS-Virtual-Personal-Assistant-using-Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajesh9943&repo=JARVIS-Virtual-Personal-Assistant-using-Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/rajesh9943/Preinsta_Winter_Data_Analytics_Internship_Assignment-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajesh9943&repo=Preinsta_Winter_Data_Analytics_Internship_Assignment-1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
